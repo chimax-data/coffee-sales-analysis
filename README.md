@@ -53,20 +53,14 @@ The dashboard provides a visual and dynamic way to explore the dataset and suppo
 - Regions with the highest sales performance.
 - Seasonal sales trends indicating peak sales periods.
 - Average unit price across different product categories.
-
----
-
-## 📷 Dashboard Preview
-
-![Coffee Sales Dashboard Preview](coffee_ sales_dashboard.png)
-
+  
 ---
 
 ## 👩‍💼 Author
 
 **Vivian Chimamaka**  
-📧 [chimax4jesus@gmail.com] (optional)  
-🔗 [https://www.linkedin.com/in/chimamaka-vivian-b967a3196/] (optional)
+📧 chimax4jesus@gmail.com  
+🔗 https://www.linkedin.com/in/chimamaka-vivian-b967a3196/ 
 
 ---
 
